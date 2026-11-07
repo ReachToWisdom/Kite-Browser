@@ -4,8 +4,8 @@ Windows용 **Kite Browser**와 **AI Kite** 설치 프로그램입니다.
 
 ## 설치 파일
 
-[Windows 설치 파일 다운로드](Kite-Browser-Setup-2026.11.07-r2.exe) · [릴리스 기록](https://github.com/ReachToWisdom/Kite-Browser/releases)
+[Windows 설치 파일 다운로드](Kite-Browser-Setup-2026.11.07-r3.exe) · [릴리스 기록](https://github.com/ReachToWisdom/Kite-Browser/releases)
 
-r2 설치 파일은 한글 안내를 수정했으며 설치 완료 뒤 `install-status.txt`를 기록합니다. 현재 Windows 사용자에게 두 브라우저와 시작 메뉴 바로가기를 설치합니다. 제거해도 사용자 설정과 북마크는 보존됩니다.
+r3 설치 파일은 설치 중 Chrome·Firefox·Edge 체크박스를 한 화면에 표시하며, 선택한 브라우저의 북마크를 Kite의 기존 북마크 저장소로 가져옵니다. 여러 브라우저를 동시에 선택할 수 있고, 브라우저별 프로필·신규 북마크·중복·오류 결과를 설치 완료 창과 `install-status.txt`에 남깁니다. 현재 Windows 사용자에게 두 브라우저를 설치하며, 시작 메뉴 앱 목록에 `AI Kite`와 `Kite Browser` 바로가기를 등록합니다. 제거해도 사용자 설정과 북마크는 보존됩니다.
 
-SHA-256: `2D23FCE6C121D2E1D5CD259EEC86E13A25100DA111120547418EE3EBB6C626E9`
+SHA-256: `A1241A7E54A82FE02A8B36FD00BBE0C86873660E364214555641A6F53C4EB298`
