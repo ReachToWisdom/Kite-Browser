@@ -16,4 +16,4 @@ Windows용 **Kite Browser**와 **AI Kite** 배포 페이지입니다.
 
 ## 검증
 
-배포 파일 SHA-256: `$hash`
+배포 파일 SHA-256: `CF974B517CECED125E0819D2217EB37FB6F64BE090326DFEA6756494E9484F8C`
