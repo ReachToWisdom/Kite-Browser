@@ -1,19 +1,11 @@
 # Kite Browser
 
-Windows용 **Kite Browser**와 **AI Kite** 배포 페이지입니다.
+Windows용 **Kite Browser**와 **AI Kite** 설치 프로그램입니다.
 
-## 다운로드
+## 설치 파일
 
-[최신 배포 파일 다운로드](https://github.com/ReachToWisdom/Kite-Browser/releases/latest/download/Kite-20261107-2023.zip) · [릴리스 기록](https://github.com/ReachToWisdom/Kite-Browser/releases)
+[Windows 설치 파일 다운로드](https://github.com/ReachToWisdom/Kite-Browser/releases/latest/download/Kite-Browser-Setup-2026.11.07.exe) · [릴리스 기록](https://github.com/ReachToWisdom/Kite-Browser/releases)
 
-## 설치 및 실행
+설치 파일을 실행하면 현재 Windows 사용자에게 두 브라우저가 설치되고 시작 메뉴 바로가기가 등록됩니다. 제거는 Windows의 설치된 앱 목록에서 할 수 있으며, 사용자 설정과 북마크는 보존됩니다.
 
-1. ZIP 파일을 내려받아 원하는 폴더에 압축을 풉니다.
-2. `AI Kite.exe`는 AI 브라우저를, `Kite.exe`는 일반 브라우저를 실행합니다.
-3. 시작 메뉴 바로가기를 등록하려면 압축을 푼 폴더에서 `Install-Kite-Shortcuts.ps1`을 실행합니다.
-
-이 배포는 설치 마법사(MSI)가 아닌 Windows용 휴대형 ZIP 패키지입니다. 설정과 북마크는 사용자 프로필에 저장됩니다.
-
-## 검증
-
-배포 파일 SHA-256: `CF974B517CECED125E0819D2217EB37FB6F64BE090326DFEA6756494E9484F8C`
+SHA-256: `F65AD89C40AD4B0FA4755AF30C14DB516DA0A122B360D5F27073C5F691E7E29C`
